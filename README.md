@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Teensy 4.1 and the Raspberry Pi RP2040 Pico and Pico W, also ESP32 with cameras.
 - 💞️ I’m looking to collaborate on ... whatever seems interesting and relevant at the time.
 - In the distant past we have done a *lot* of 8051-family assembly code, including the special Dallas Semi supersets.
-- Currently I am mostly working as a forensic engineer for MRA Forensic Sciences, and am a NAFI CFEI (Certified Fire and Explosion Investigator). I also hold credentials from IAAI (International Association of Arson Investigators). In addition to fires and explosions (commercial and residential structure, motor vehicle, marine, heavy equipment, small aircraft), I specialize in electrical or electronic product failure analysis. I have had success with difficult instrumentation and telemetry challenges.
+- In an elecrical engineer with a few decades of embedded systems experience. Currently I am mostly working as a forensic engineer for Beehive Fire Investigation, and before that MRA Forensic Sciences, and am a NAFI CFEI (Certified Fire and Explosion Investigator). I also hold credentials from IAAI (International Association of Arson Investigators) as FIT with MVFI endorsement. In addition to fires and explosions (commercial and residential structure, motor vehicle, marine, heavy equipment, small aircraft), I specialize in electrical or electronic product failure analysis. I have had success with difficult instrumentation and telemetry challenges.
 - 📫 How to reach me ... try bboyes a t gmail
 
 <!---
